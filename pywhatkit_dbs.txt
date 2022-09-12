@@ -1,0 +1,67 @@
+--------------------
+Date: 26:6:2022
+Time: 15:17
+Phone number: +9150146250
+Message: Hey............... this is JARVIS,using Arduino and DH11 Temperatue sensor I have sense your room temperature and humidity, todays temperatue and humidity    erature:  23 C   Humidity:  63
+        since temperature is mpre than 23 degree celicus please switch off the AC....................
+--------------------
+Date: 26:6:2022
+Time: 15:18
+Phone number: +919150146250
+Message: Hey............... this is JARVIS,using Arduino and DH11 Temperatue sensor I have sense your room temperature and humidity, todays temperatue and humidity    ature:  23 C   Humidity:  62
+        since temperature is mpre than 23 degree celicus please switch off the AC....................
+--------------------
+Date: 26:6:2022
+Time: 15:21
+Phone number: +919150146250
+Message: Hey............... this is JARVIS,using Arduino and DH11 Temperatue sensor I have sense your room temperature and humidity, todays temperatue and humidity           Temperature:  22 C   Humidity:  62
+        since temperature is mpre than 23 degree celicus please switch off the AC....................
+--------------------
+Date: 26:6:2022
+Time: 15:21
+Phone number: +919150146250
+Message: Hey............... this is JARVIS,using Arduino and DH11 Temperatue sensor I have sense your room temperature and humidity, todays temperatue and humidity           Temperature:  22 C   Humidity:  62
+        since temperature is mpre than 23 degree celicus please switch off the AC....................
+--------------------
+Date: 26:6:2022
+Time: 15:23
+Phone number: +919150146250
+Message: Hey............... this is JARVIS,using Arduino and DH11 Temperatue sensor I have sense your room temperature and humidity, todays temperatue and humidity           Temperature:  23 C   Humidity:  65
+        since temperature is mpre than 23 degree celicus please switch off the AC....................
+--------------------
+Date: 26:6:2022
+Time: 15:25
+Phone number: +9175858481862
+Message: Hey............... this is JARVIS,using Arduino and DH11 Temperatue sensor I have sense your room temperature and humidity, todays temperatue and humidity           Temperature:  22 C   Humidity:  63
+        since temperature is mpre than 23 degree celicus please switch off the AC....................
+--------------------
+Date: 26:6:2022
+Time: 15:26
+Phone number: +917585848186
+Message: Hey............... this is JARVIS,using Arduino and DH11 Temperatue sensor I have sense your room temperature and humidity, todays temperatue and humidity           Temperature:  22 C   Humidity:  61
+        since temperature is mpre than 23 degree celicus please switch off the AC....................
+--------------------
+Date: 26:6:2022
+Time: 15:27
+Phone number: +917585848186
+Message: Hey............... this is JARVIS,using Arduino and DH11 Temperatue sensor I have sense your room temperature and humidity, todays temperatue and humidity           Temperature:  22 C   Humidity:  61
+        since temperature is mpre than 23 degree celicus please switch off the AC....................
+--------------------
+Date: 26:6:2022
+Time: 15:30
+Phone number: +917585848226
+Message: Hey............... this is JARVIS,using Arduino and DH11 Temperatue sensor I have sense your room temperature and humidity, todays temperatue and humidity           Temperature:  22 C   Humidity:  64
+        since temperature is mpre than 23 degree celicus please switch off the AC....................
+--------------------
+Date: 26:6:2022
+Time: 15:32
+Phone number: +917585848226
+Message: Hey............... this is JARVIS,using Arduino and DH11 Temperatue sensor I have sense your room temperature and humidity, todays temperatue and humidity           Temperature:  22 C   Humidity:  63
+        since temperature is mpre than 23 degree celicus please switch off the AC....................
+--------------------
+Date: 26:6:2022
+Time: 15:33
+Phone number: +917585848226
+Message: Hey............... this is JARVIS,using Arduino and DH11 Temperatue sensor I have sense your room temperature and humidity, todays temperatue and humidity           Temperature:  22 C   Humidity:  60
+        since temperature is mpre than 23 degree celicus please switch off the AC....................
+--------------------
